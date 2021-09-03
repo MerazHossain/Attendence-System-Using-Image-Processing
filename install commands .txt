@@ -1,4 +1,5 @@
-Install All the modules mentioned below 
+You need to install this before running this code.
+[Sometimes pip install can not work properly in mac.Rather than using pip install you should use pip3 install]
 
 pip install tk-tools
 pip install opencv-contrib-python
